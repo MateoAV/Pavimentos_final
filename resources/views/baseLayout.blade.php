@@ -133,7 +133,7 @@
 <![endif]-->
 <!-- BEGIN CORE PLUGINS -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.js" type="text/javascript"></script>
-<script src="apps/scripts/image-picker.js" type="text/javascript"></script>
+<script src="global/scripts/image-picker.min.js" type="text/javascript"></script>
 <script src="global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <script src="global/scripts/underscore.js" type="text/javascript"></script>
 <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.js" type="text/javascript"></script>
